@@ -1,0 +1,1 @@
+SELECT * FROM `admin` LIMIT 1000
